@@ -1,0 +1,26 @@
+.titre_body{
+    font-size: 5rem;
+    color: #f51541;
+    text-align: center;
+    padding-top: 5rem;
+}
+
+
+.btn_containt{
+    text-align: center;
+}
+
+.btn_body{
+    text-transform: uppercase;
+    padding: 1rem 3rem;
+    border-radius: 2rem;
+    border: none;
+    background-color: #2a2b5f;
+    color: #fff;
+}
+
+
+.btn_body:hover {
+    color: #f51541;
+    background-color: #4d4d6d;
+}
